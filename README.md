@@ -15,7 +15,7 @@ You will deploy the web server on **Google Cloud Run**, use **Google Cloud Ident
 
 ---
 
-### YOUR APPLICATION URL HERE!
+### https://tabs-vs-spaces-53338070954.us-central1.run.app/
 
 ---
 
@@ -107,7 +107,7 @@ __**note: you can run the application without authentication by adding `?auth=fa
 
 3. **README File:**
 - **Update this README with your application URL**
-  - i.e. `https://tabs-vs-spaces-XXXXXX.us-central1.run.app/`
+  - i.e. `https://tabs-vs-spaces-53338070954.us-central1.run.app/`
 
 4. **Submit Zip file Canvas:**
 - Cloud Run Logs, Screenshots (Firestore, and Identity Platflow)
